@@ -1,5 +1,10 @@
 
 # Alvaro-project Plymouth Theme
+<p align="center">
+A big collection of plymouth themes, ported from <i>android bootanimation</i> from <a href="https://forum.xda-developers.com/android/themes/alienware-t3721978">here.</a>
+</p>
+
+![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif
 
 Tema Plymouth kustom dengan animasi PNG frame-by-frame.
 
