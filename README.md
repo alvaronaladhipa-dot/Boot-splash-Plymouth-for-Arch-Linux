@@ -26,11 +26,15 @@ Alvaro-project/
 ├── ...
 └── ezgif-frame-XXX.png
 ```
-
-## ⚙️ Instalasi
+## ⚙️ Cara menginstal dengan cmd
 ```bash
-cd ~/dowload/Alvaro-project
+
+
+## ⚙️ Cara menyalakan
+```bash
 sudo mv Alvaro-project /usr/share/plymouth/themes/
+```
+```bash
 sudo plymouth-set-default-theme Alvaro-project -R
 ```
 
