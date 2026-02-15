@@ -28,6 +28,8 @@ Alvaro-project/
 ```
 ## ⚙️ Cara menginstal dengan cmd
 ```bash
+git clone https://github.com/alvaronaladhipa-dot/Boot-splash-Plymowth-for-Arch-Linux.git
+```
 
 
 ## ⚙️ Cara menyalakan
