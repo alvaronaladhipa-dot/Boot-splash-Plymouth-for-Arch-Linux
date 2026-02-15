@@ -29,6 +29,7 @@ Alvaro-project/
 
 ## ⚙️ Instalasi
 ```bash
+cd ~/dowload/Alvaro-project
 sudo mv Alvaro-project /usr/share/plymouth/themes/
 sudo plymouth-set-default-theme Alvaro-project -R
 ```
