@@ -2,7 +2,13 @@
 # Alvaro-project Plymouth Theme
 ![Boot ChacyOS](Boot_for_chacyos.gif)
 
+ini tampilan asli
 
+## ❌ kekurangan
+- kadang cepat sebagian
+- pas munculin powered by chacyos langsung di cepetin
+
+##
 Tema Plymouth kustom dengan animasi PNG frame-by-frame.
 
 ## ✨ Deskripsi
