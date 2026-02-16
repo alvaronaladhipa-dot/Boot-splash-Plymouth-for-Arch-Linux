@@ -11,6 +11,8 @@ ini tampilan asli
 ##
 Tema Plymouth kustom dengan animasi PNG frame-by-frame.
 
+
+
 ## ✨ Deskripsi
 Alvaro-project adalah tema Plymouth kustom untuk sistem Linux yang menginginkan tampilan boot yang bersih, modern, dan stabil. Tema ini menggunakan animasi berbasis PNG (frame-by-frame) yang diputar saat proses boot awal, lalu **berhenti (freeze) di frame terakhir** untuk menghindari tampilan terpotong pada sistem dengan proses boot yang cepat.
 
@@ -41,7 +43,26 @@ git clone https://github.com/alvaronaladhipa-dot/Boot-splash-Plymowth-for-Arch-L
 
 
 ## ⚙️ Cara menyalakan
+1. Lihat folder yang bernama
+```
+Boot-splash-Plymouth-for-Arch-Linux
+```
+2 pilih folder yang mana yang cocok buat linux 
+```
+Boot-splash-Plymouth-for-Arch-Linux/
+├── Alvaro-project.tar.gz
+└──Alvaro-project.zip
+```
+3. Extract folder      
+4. folder yang bernama Alvaro-projact taroh di home
+5. ketik ini di command
 ```bash
+cd ~
+```
+```bash
+ls
+```
+```bash         
 sudo mv Alvaro-project /usr/share/plymouth/themes/
 ```
 ```bash
