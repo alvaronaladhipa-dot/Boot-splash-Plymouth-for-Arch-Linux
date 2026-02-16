@@ -70,5 +70,10 @@ Bebas digunakan untuk keperluan pribadi dan edukasi.
 Proyek kustomisasi dan eksperimen Linux
 ---
 
+## 📱 Ikuti Aku
+
+- 🎮 **Alvaro Komunitas** - https://www.youtube.com/@AlvaroNaladhipaPriyadi
+- 🎥 **Alvaro Naladhipa Priyadi** - https://www.youtube.com/channel/UCHl43-uokFj2fglpqmp6U9A
+- 💬 **WhatsApp Channel** - https://whatsapp.com/channel/0029VbBwzm0LCoX8opQbPx3E
 
 
