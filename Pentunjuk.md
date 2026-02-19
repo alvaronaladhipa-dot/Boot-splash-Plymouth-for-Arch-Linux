@@ -36,10 +36,14 @@ Alvaro-project/
 ├── ...
 └── ezgif-frame-XXX.png
 ```
-## ⚙️ Cara menginstal dengan cmd
-```bash
-git clone https://github.com/alvaronaladhipa-dot/Boot-splash-Plymowth-for-Arch-Linux.git
-```
+## ⚙️ Cara Instalasi
+
+1. Klik [Latest Release](https://github.com/alvaronaladhipa-dot/Boot-splash-Plymouth-for-Arch-Linux/releases/tag/v0.1) jika Anda ingin melihat update terbaru.
+
+2. Jika Anda mau langsung menggunakan command tanpa melihat update:
+   ```bash
+   git clone https://github.com/alvaronaladhipa-dot/Boot-splash-Plymouth-for-Arch-Linux.git
+
 
 
 ## ⚙️ Cara menyalakan
