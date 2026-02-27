@@ -74,12 +74,7 @@ sudo plymouth-set-default-theme Alvaro-project -R
 
 Setelah itu, reboot sistem untuk menerapkan tema.
 
-## 🧪 Testing (tanpa reboot)
-```bash
-sudo plymouthd
-sudo plymouth --show-splash
-sudo plymouth quit
-```
+
 
 ## ⚠️ Catatan Penting
 - Plymouth tidak dapat menjamin animasi berjalan penuh pada sistem yang boot-nya sangat cepat.
